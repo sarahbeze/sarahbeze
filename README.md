@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Sarah Lorenzen and I'm a Master's CS student specializing in AI.<br><br>I use AI ethically and responsibly to solve business problems. I focus on crafting usable, functional products based on data that champion the user - whether I’m fine-tuning LLMs, creating AI Automations, improving usability through design, or building user-friendly and intuitive websites - it’s always been about the user.</p>
+<p align="left">My name is Sarah Beze and I'm a Master's AI student.<br><br>I use AI ethically and responsibly to solve business problems. I focus on crafting usable, functional products based on data that champion the user - whether I’m fine-tuning LLMs, creating AI Automations, improving usability through design, or building accessible, user-friendly and intuitive websites - it’s always been about the user.</p>
 
 ###
 
-<p align="left">📚 I'm currently learning Applied Machine Learning - Tensor Flow and PyTorch<br>🎯 Goals: To use my skills for good!</p>
+<p align="left">📚 I'm currently learning Tensor Flow and PyTorch<br>🎯 Goals: To use my skills for good!</p>
 
 ###
 
