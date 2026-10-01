@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Sarah Beze and I'm a Master's AI student.<br><br>I use AI ethically and responsibly to solve business problems. I focus on crafting usable, functional products based on data that champion the user - whether I’m fine-tuning LLMs, creating AI Automations, improving usability through design, or building accessible, user-friendly and intuitive websites - it’s always been about the user.</p>
+<p align="left">My name is Sarah Beze and I'm pursuing a Master's in Data Science.<br><br>My passion lies in uncovering patterns and insights from data and presenting them through clear, user-focused narratives. By combining data visualization skills with a commitment to problem-solving, I aim to empower stakeholders to make informed decisions that address key challenges and drive progress.</p>
 
 ###
 
-<p align="left">📚 I'm currently learning Tensor Flow and PyTorch<br>🎯 Goals: To use my skills for good!</p>
+<p align="left">📚 I'm currently upskilling in Tensor Flow and PyTorch<br>🎯 Goals: To use my skills for good!</p>
 
 ###
 
